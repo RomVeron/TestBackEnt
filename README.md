@@ -5,7 +5,7 @@ Se realizo el test con la herramienta de:
  .NET 5
  SQLServer
 
-
+Se debe descomprimir el archivo rar. donode se encuentra el repositorio del test
 Se creo la arquitectura del test en capas y se utiliza el patrón Repository 
 se agregaron persistencias utilizando EntityFramework y JWT con Identity para la seguridad y autenticacion de la API
 Se puede realizar las consultas desde el navegador con Swagger o utilizar postman o Insomnia
